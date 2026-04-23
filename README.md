@@ -2,7 +2,7 @@
 
 ## 🌐 Live Website
 
-👉 https://diabetes-fl-app.streamlit.app
+👉https://federated-learning-diabetes-blockchain-d9bsvtdm6jjqihqrvobj7g.streamlit.app/
 
 ---
 
