@@ -1,2 +1,11 @@
-# Federated-Learning-Diabetes-Blockchain
-Privacy-preserving diabetes prediction system using federated learning and blockchain for secure and decentralized model training.
+# 🩺 Diabetes Prediction using Federated Learning & Blockchain
+
+## 🌐 Live Website
+
+👉 https://diabetes-fl-app.streamlit.app
+
+---
+
+## 📌 Description
+
+This project uses Federated Learning and Blockchain for secure diabetes prediction.
